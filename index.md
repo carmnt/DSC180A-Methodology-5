@@ -1,5 +1,5 @@
 ## Carmen Truong
-c5truong@ucsd.edu | Section A03 | Rob Knight
+<center> c5truong@ucsd.edu | Section A03 | Rob Knight </center>
 
 **What is the most interesting topic covered in your domain this quarter?** <br>
 The most interesting topic covered in my domain this quarter have been transformer models.
